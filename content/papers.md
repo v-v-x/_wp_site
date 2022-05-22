@@ -3,6 +3,7 @@ title: 'Исследования и рекомендации'
 author: publisher
 type: page
 date: 2011-10-17T11:22:03+00:00
+featured_image: researchs.jpg
 menu: main
 ---
 
